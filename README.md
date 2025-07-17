@@ -1,16 +1,53 @@
-## Hi there 👋
+### 👋 Hey there, I'm Raghav Siddharth!
 
-<!--
-**raghavxi1/raghavxi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub — where I learn, build, and grow 🚀
 
-Here are some ideas to get you started:
+I'm a passionate tech enthusiast, currently exploring the world of web development, open source, and community leadership. I love solving problems, contributing to meaningful projects, and connecting with like-minded people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Current Roles & Achievements:
+
+* 🔧 **Core Team Member** – *Open Source Connect India 2025*
+* 🎓 **Techfest Campus Ambassador** – *IIT Bombay*
+* 🧠 **Problem Solving (Basic + Intermediate)** Certified – *HackerRank*
+* 👨‍💻 **Internship Trainee** – \*DigiCoders Technologies \*
+* 💬 Active in tech communities & open source programs
+
+---
+
+### 🛠️ Skills & Tools:
+
+**Languages:**
+`C` `C++` `Python` `HTML` `CSS` `JavaScript`
+
+**Tools & Technologies:**
+`Git & GitHub` `VS Code` `Bootstrap` `MySQL` `MongoDB` `Node.js (Basics)` `React (Learning)`
+
+**Other:**
+`Team Collaboration` `Leadership` `Public Speaking` `Documentation Writing`
+
+---
+
+### 🔍 Currently Working On:
+
+* 🔧 Building real-world web projects
+* 🤝 Contributing to open source initiatives
+* 🌱 Sharpening DSA & backend development skills
+* 🏂 Preparing for tech internships & hackathons
+
+---
+
+### 📫 Let’s Connect!
+
+* ✉️ [raghavsid2005@gmail.com](mailto:raghavsid2005@gmail.com)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/raghav-siddharth-18207b295)
+* 💻 [GitHub](https://github.com/raghavxi1)
+* ✨ [HackerRank](https://www.hackerrank.com/raghavsid2005)
+* 🧑‍💼 Portfolio (Coming Soon!)
+
+---
+
+> *“Small steps every day lead to big results — keep building, keep learning.”*
+
+Thanks for visiting my profile! Don't forget to ⭐ some cool repos 😉
