@@ -44,7 +44,7 @@ I'm a passionate tech enthusiast, currently exploring the world of web developme
 * 🌐 [LinkedIn](https://www.linkedin.com/in/raghav-siddharth-18207b295)
 * 💻 [GitHub](https://github.com/raghavxi1)
 * ✨ [HackerRank](https://www.hackerrank.com/raghavsid2005)
-* 🧑‍💼 Portfolio (Coming Soon!)
+* 🧑‍💼 Portfolio (https://melodious-cendol-1261a4.netlify.app/)
 
 ---
 
